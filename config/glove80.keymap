@@ -466,6 +466,11 @@ endif {
             bindings = <&doublectrl>;
             key-positions = <4 5>;
         };
+
+        booty {
+            bindings = <&test>;
+            key-positions = <15 16>;
+        };
     };
 
     keymap {
