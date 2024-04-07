@@ -461,6 +461,11 @@ endif {
             bindings = <&test>;
             key-positions = <39 40>;
         };
+
+        idk {
+            bindings = <&doublectrl>;
+            key-positions = <4 5>;
+        };
     };
 
     keymap {
